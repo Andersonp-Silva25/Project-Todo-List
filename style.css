@@ -1,0 +1,11 @@
+.item-list {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+#selected-item {
+  background-color: gray;
+}
